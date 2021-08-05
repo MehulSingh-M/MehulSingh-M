@@ -4,6 +4,5 @@
 - 📫 How to reach me m.mehulsingh664@gmail.com
 
 <!---
-MehulSingh-M/MehulSingh-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+MehulSingh-M is a Web Developer intrested on learning and developing real-time projects which are widely initialized and soon planning to build some projects.... 
 --->
